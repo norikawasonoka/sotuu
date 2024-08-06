@@ -32,4 +32,4 @@ MVP　会員登録　ログイン　診断結果のお気に入り機能　診�
 
 ■ 機能の実装方針予定
 一般的なCRUD以外の実装予定の機能についてそれぞれどのようなイメージ(使用するAPIや)で実装する予定なのか現状考えているもので良いので教えて下さい。
-バックエンド　Ruby on Rails, Ruby　データベース　SQL フロントエンド JavaScript　インフラ　Fly.io　API　youtubedata　　環境開発　Docker
+バックエンド　Ruby on Rails, Ruby　データベース　MYSQL フロントエンド JavaScript　インフラ　heroku　API　youtubedata　　環境開発　Docker
